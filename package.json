@@ -1,0 +1,26 @@
+{
+  "name": "cartibo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnmolIbo/CartIbo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnmolIbo/CartIbo/issues"
+  },
+  "homepage": "https://github.com/AnmolIbo/CartIbo#readme",
+  "dependencies": {
+    "fastify": "^4.5.0",
+    "nodemon": "^2.0.19",
+    "uuid": "^8.3.2"
+  }
+}
