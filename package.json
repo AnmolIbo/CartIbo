@@ -20,7 +20,9 @@
   "homepage": "https://github.com/AnmolIbo/CartIbo#readme",
   "dependencies": {
     "fastify": "^4.5.0",
+    "knex": "^2.2.0",
     "nodemon": "^2.0.19",
+    "pg": "^8.8.0",
     "uuid": "^8.3.2"
   }
 }
